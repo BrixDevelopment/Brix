@@ -1,0 +1,15 @@
+@font-face {
+    font-family: franklingothic_reg;
+    font-weight: normal;
+    src: url(assets/fonts/franklin-gothic/FranklinGothic.woff);
+}
+
+@font-face {
+    font-family: franklingothic_bold;
+    font-weight: bold;
+    src: url(assets/fonts/franklin-gothic/FranklinGothic.woff);
+}
+
+p {
+    font-family: franklingothic_reg;
+}
